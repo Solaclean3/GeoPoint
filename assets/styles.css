@@ -415,13 +415,6 @@ h1, h2, h3 {
   margin-bottom: 32px;
 }
 
-.section-heading > p {
-  width: min(100%, 360px);
-  margin: 0 0 4px;
-  color: var(--body);
-  font-size: 15px;
-}
-
 .service-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -775,10 +768,6 @@ h1, h2, h3 {
   .section-heading {
     display: block;
     margin-bottom: 24px;
-  }
-  .section-heading > p {
-    width: auto;
-    margin: 14px 0 0;
   }
   .service-card h3 { min-height: 0; }
   .approach-art {
