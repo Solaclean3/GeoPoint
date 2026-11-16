@@ -398,6 +398,10 @@ h1, h2, h3 {
   object-position: center 38%;
 }
 
+.person .profile-photo-jesse {
+  object-position: center 24%;
+}
+
 .person h3 {
   margin: 0 0 6px;
   font-size: 28px;
